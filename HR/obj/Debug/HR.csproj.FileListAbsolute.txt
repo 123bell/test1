@@ -1,0 +1,368 @@
+D:\无用\S3\MVC\HR项目\HR\HR\bin\HR.dll.config
+D:\无用\S3\MVC\HR项目\HR\HR\bin\HR.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\HR.pdb
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\csc.exe
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\csc.exe.config
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\csc.rsp
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\csi.exe
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\csi.exe.config
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\csi.rsp
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\Microsoft.Managed.Core.targets
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.AppContext.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.Collections.Immutable.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.Console.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.Globalization.Calendars.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.IO.Compression.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.IO.FileSystem.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.Net.Http.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.Net.Sockets.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.Reflection.Metadata.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.ValueTuple.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.Xml.XmlDocument.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.Xml.XPath.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\vbc.exe
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\vbc.exe.config
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\vbc.rsp
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\VBCSCompiler.exe
+D:\无用\S3\MVC\HR项目\HR\HR\bin\roslyn\VBCSCompiler.exe.config
+D:\无用\S3\MVC\HR项目\HR\HR\bin\Antlr3.Runtime.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\DAO.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\Microsoft.Web.Infrastructure.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\Model.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\Newtonsoft.Json.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\System.Web.Helpers.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\System.Web.Mvc.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\System.Web.Optimization.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\System.Web.Razor.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\System.Web.WebPages.Deployment.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\System.Web.WebPages.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\System.Web.WebPages.Razor.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\WebGrease.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\Dapper.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\DAO.pdb
+D:\无用\S3\MVC\HR项目\HR\HR\bin\Model.pdb
+D:\无用\S3\MVC\HR项目\HR\HR\bin\System.Web.Helpers.xml
+D:\无用\S3\MVC\HR项目\HR\HR\bin\System.Web.Mvc.xml
+D:\无用\S3\MVC\HR项目\HR\HR\bin\System.Web.Optimization.xml
+D:\无用\S3\MVC\HR项目\HR\HR\bin\System.Web.Razor.xml
+D:\无用\S3\MVC\HR项目\HR\HR\bin\System.Web.WebPages.xml
+D:\无用\S3\MVC\HR项目\HR\HR\bin\System.Web.WebPages.Deployment.xml
+D:\无用\S3\MVC\HR项目\HR\HR\bin\System.Web.WebPages.Razor.xml
+D:\无用\S3\MVC\HR项目\HR\HR\bin\Newtonsoft.Json.xml
+D:\无用\S3\MVC\HR项目\HR\HR\bin\Antlr3.Runtime.pdb
+D:\无用\S3\MVC\HR项目\HR\HR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\无用\S3\MVC\HR项目\HR\HR\bin\Dapper.xml
+D:\无用\S3\MVC\HR项目\HR\HR\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\无用\S3\MVC\HR项目\HR\HR\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\无用\S3\MVC\HR项目\HR\HR\obj\Debug\HR.csproj.AssemblyReference.cache
+D:\无用\S3\MVC\HR项目\HR\HR\obj\Debug\HR.csproj.CoreCompileInputs.cache
+D:\无用\S3\MVC\HR项目\HR\HR\obj\Debug\HR.csproj.CopyComplete
+D:\无用\S3\MVC\HR项目\HR\HR\obj\Debug\HR.dll
+D:\无用\S3\MVC\HR项目\HR\HR\obj\Debug\HR.pdb
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\HR.dll.config
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\HR.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\HR.pdb
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\csc.exe
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\csc.exe.config
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\csc.rsp
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\csi.exe
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\csi.exe.config
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\csi.rsp
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.AppContext.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.Console.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.IO.Compression.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.Net.Http.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.ValueTuple.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\vbc.exe
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\vbc.exe.config
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\vbc.rsp
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\VBCSCompiler.exe
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\Antlr3.Runtime.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\DAO.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\Model.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\Newtonsoft.Json.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\System.Web.Helpers.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\System.Web.Mvc.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\System.Web.Optimization.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\System.Web.Razor.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\System.Web.WebPages.Deployment.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\System.Web.WebPages.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\System.Web.WebPages.Razor.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\WebGrease.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\Dapper.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\DAO.pdb
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\Model.pdb
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\System.Web.Helpers.xml
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\System.Web.Mvc.xml
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\System.Web.Optimization.xml
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\System.Web.Razor.xml
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\System.Web.WebPages.xml
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\System.Web.WebPages.Deployment.xml
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\System.Web.WebPages.Razor.xml
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\Newtonsoft.Json.xml
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\Antlr3.Runtime.pdb
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\Dapper.xml
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\obj\Debug\HR.csproj.AssemblyReference.cache
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\obj\Debug\HR.csproj.CoreCompileInputs.cache
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\obj\Debug\HR.csproj.CopyComplete
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\obj\Debug\HR.dll
+C:\Users\yl\Documents\Tencent Files\3255886913\FileRecv\HR(3)\HR\obj\Debug\HR.pdb
+H:\HR(3)\HR\bin\HR.dll.config
+H:\HR(3)\HR\bin\HR.dll
+H:\HR(3)\HR\bin\HR.pdb
+H:\HR(3)\HR\bin\roslyn\csc.exe
+H:\HR(3)\HR\bin\roslyn\csc.exe.config
+H:\HR(3)\HR\bin\roslyn\csc.rsp
+H:\HR(3)\HR\bin\roslyn\csi.exe
+H:\HR(3)\HR\bin\roslyn\csi.exe.config
+H:\HR(3)\HR\bin\roslyn\csi.rsp
+H:\HR(3)\HR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\HR(3)\HR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\HR(3)\HR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\HR(3)\HR\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\HR(3)\HR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\HR(3)\HR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\HR(3)\HR\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\HR(3)\HR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\HR(3)\HR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\HR(3)\HR\bin\roslyn\Microsoft.Managed.Core.targets
+H:\HR(3)\HR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\HR(3)\HR\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\HR(3)\HR\bin\roslyn\System.AppContext.dll
+H:\HR(3)\HR\bin\roslyn\System.Collections.Immutable.dll
+H:\HR(3)\HR\bin\roslyn\System.Console.dll
+H:\HR(3)\HR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\HR(3)\HR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\HR(3)\HR\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\HR(3)\HR\bin\roslyn\System.Globalization.Calendars.dll
+H:\HR(3)\HR\bin\roslyn\System.IO.Compression.dll
+H:\HR(3)\HR\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\HR(3)\HR\bin\roslyn\System.IO.FileSystem.dll
+H:\HR(3)\HR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\HR(3)\HR\bin\roslyn\System.Net.Http.dll
+H:\HR(3)\HR\bin\roslyn\System.Net.Sockets.dll
+H:\HR(3)\HR\bin\roslyn\System.Reflection.Metadata.dll
+H:\HR(3)\HR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\HR(3)\HR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\HR(3)\HR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\HR(3)\HR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\HR(3)\HR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\HR(3)\HR\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\HR(3)\HR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\HR(3)\HR\bin\roslyn\System.ValueTuple.dll
+H:\HR(3)\HR\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\HR(3)\HR\bin\roslyn\System.Xml.XmlDocument.dll
+H:\HR(3)\HR\bin\roslyn\System.Xml.XPath.dll
+H:\HR(3)\HR\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\HR(3)\HR\bin\roslyn\vbc.exe
+H:\HR(3)\HR\bin\roslyn\vbc.exe.config
+H:\HR(3)\HR\bin\roslyn\vbc.rsp
+H:\HR(3)\HR\bin\roslyn\VBCSCompiler.exe
+H:\HR(3)\HR\bin\roslyn\VBCSCompiler.exe.config
+H:\HR(3)\HR\bin\Antlr3.Runtime.dll
+H:\HR(3)\HR\bin\DAO.dll
+H:\HR(3)\HR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\HR(3)\HR\bin\Microsoft.Web.Infrastructure.dll
+H:\HR(3)\HR\bin\Model.dll
+H:\HR(3)\HR\bin\Newtonsoft.Json.dll
+H:\HR(3)\HR\bin\System.Web.Helpers.dll
+H:\HR(3)\HR\bin\System.Web.Mvc.dll
+H:\HR(3)\HR\bin\System.Web.Optimization.dll
+H:\HR(3)\HR\bin\System.Web.Razor.dll
+H:\HR(3)\HR\bin\System.Web.WebPages.Deployment.dll
+H:\HR(3)\HR\bin\System.Web.WebPages.dll
+H:\HR(3)\HR\bin\System.Web.WebPages.Razor.dll
+H:\HR(3)\HR\bin\WebGrease.dll
+H:\HR(3)\HR\bin\Dapper.dll
+H:\HR(3)\HR\bin\DAO.pdb
+H:\HR(3)\HR\bin\Model.pdb
+H:\HR(3)\HR\bin\System.Web.Helpers.xml
+H:\HR(3)\HR\bin\System.Web.Mvc.xml
+H:\HR(3)\HR\bin\System.Web.Optimization.xml
+H:\HR(3)\HR\bin\System.Web.Razor.xml
+H:\HR(3)\HR\bin\System.Web.WebPages.xml
+H:\HR(3)\HR\bin\System.Web.WebPages.Deployment.xml
+H:\HR(3)\HR\bin\System.Web.WebPages.Razor.xml
+H:\HR(3)\HR\bin\Newtonsoft.Json.xml
+H:\HR(3)\HR\bin\Antlr3.Runtime.pdb
+H:\HR(3)\HR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\HR(3)\HR\bin\Dapper.xml
+H:\HR(3)\HR\bin\zh-Hans\System.Web.Helpers.resources.dll
+H:\HR(3)\HR\bin\zh-Hans\System.Web.Mvc.resources.dll
+H:\HR(3)\HR\bin\zh-Hans\System.Web.Optimization.resources.dll
+H:\HR(3)\HR\bin\zh-Hans\System.Web.Razor.resources.dll
+H:\HR(3)\HR\bin\zh-Hans\System.Web.WebPages.resources.dll
+H:\HR(3)\HR\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+H:\HR(3)\HR\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+H:\HR(3)\HR\obj\Debug\HR.csproj.AssemblyReference.cache
+H:\HR(3)\HR\obj\Debug\HR.csproj.CoreCompileInputs.cache
+H:\HR(3)\HR\obj\Debug\HR.csproj.CopyComplete
+H:\HR(3)\HR\obj\Debug\HR.dll
+H:\HR(3)\HR\obj\Debug\HR.pdb
+H:\HR\HR\bin\HR.dll.config
+H:\HR\HR\bin\HR.dll
+H:\HR\HR\bin\HR.pdb
+H:\HR\HR\bin\roslyn\csc.exe
+H:\HR\HR\bin\roslyn\csc.exe.config
+H:\HR\HR\bin\roslyn\csc.rsp
+H:\HR\HR\bin\roslyn\csi.exe
+H:\HR\HR\bin\roslyn\csi.exe.config
+H:\HR\HR\bin\roslyn\csi.rsp
+H:\HR\HR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\HR\HR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\HR\HR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\HR\HR\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\HR\HR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\HR\HR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\HR\HR\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\HR\HR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\HR\HR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\HR\HR\bin\roslyn\Microsoft.Managed.Core.targets
+H:\HR\HR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\HR\HR\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\HR\HR\bin\roslyn\System.AppContext.dll
+H:\HR\HR\bin\roslyn\System.Collections.Immutable.dll
+H:\HR\HR\bin\roslyn\System.Console.dll
+H:\HR\HR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\HR\HR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\HR\HR\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\HR\HR\bin\roslyn\System.Globalization.Calendars.dll
+H:\HR\HR\bin\roslyn\System.IO.Compression.dll
+H:\HR\HR\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\HR\HR\bin\roslyn\System.IO.FileSystem.dll
+H:\HR\HR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\HR\HR\bin\roslyn\System.Net.Http.dll
+H:\HR\HR\bin\roslyn\System.Net.Sockets.dll
+H:\HR\HR\bin\roslyn\System.Reflection.Metadata.dll
+H:\HR\HR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\HR\HR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\HR\HR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\HR\HR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\HR\HR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\HR\HR\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\HR\HR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\HR\HR\bin\roslyn\System.ValueTuple.dll
+H:\HR\HR\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\HR\HR\bin\roslyn\System.Xml.XmlDocument.dll
+H:\HR\HR\bin\roslyn\System.Xml.XPath.dll
+H:\HR\HR\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\HR\HR\bin\roslyn\vbc.exe
+H:\HR\HR\bin\roslyn\vbc.exe.config
+H:\HR\HR\bin\roslyn\vbc.rsp
+H:\HR\HR\bin\roslyn\VBCSCompiler.exe
+H:\HR\HR\bin\roslyn\VBCSCompiler.exe.config
+H:\HR\HR\bin\Antlr3.Runtime.dll
+H:\HR\HR\bin\DAO.dll
+H:\HR\HR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\HR\HR\bin\Microsoft.Web.Infrastructure.dll
+H:\HR\HR\bin\Model.dll
+H:\HR\HR\bin\Newtonsoft.Json.dll
+H:\HR\HR\bin\System.Web.Helpers.dll
+H:\HR\HR\bin\System.Web.Mvc.dll
+H:\HR\HR\bin\System.Web.Optimization.dll
+H:\HR\HR\bin\System.Web.Razor.dll
+H:\HR\HR\bin\System.Web.WebPages.Deployment.dll
+H:\HR\HR\bin\System.Web.WebPages.dll
+H:\HR\HR\bin\System.Web.WebPages.Razor.dll
+H:\HR\HR\bin\WebGrease.dll
+H:\HR\HR\bin\Dapper.dll
+H:\HR\HR\bin\DAO.pdb
+H:\HR\HR\bin\Model.pdb
+H:\HR\HR\bin\System.Web.Helpers.xml
+H:\HR\HR\bin\System.Web.Mvc.xml
+H:\HR\HR\bin\System.Web.Optimization.xml
+H:\HR\HR\bin\System.Web.Razor.xml
+H:\HR\HR\bin\System.Web.WebPages.xml
+H:\HR\HR\bin\System.Web.WebPages.Deployment.xml
+H:\HR\HR\bin\System.Web.WebPages.Razor.xml
+H:\HR\HR\bin\Newtonsoft.Json.xml
+H:\HR\HR\bin\Antlr3.Runtime.pdb
+H:\HR\HR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\HR\HR\bin\Dapper.xml
+H:\HR\HR\bin\zh-Hans\System.Web.Helpers.resources.dll
+H:\HR\HR\bin\zh-Hans\System.Web.Mvc.resources.dll
+H:\HR\HR\bin\zh-Hans\System.Web.Optimization.resources.dll
+H:\HR\HR\bin\zh-Hans\System.Web.Razor.resources.dll
+H:\HR\HR\bin\zh-Hans\System.Web.WebPages.resources.dll
+H:\HR\HR\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+H:\HR\HR\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+H:\HR\HR\obj\Debug\HR.csproj.AssemblyReference.cache
+H:\HR\HR\obj\Debug\HR.csproj.CoreCompileInputs.cache
+H:\HR\HR\obj\Debug\HR.csproj.CopyComplete
+H:\HR\HR\obj\Debug\HR.dll
+H:\HR\HR\obj\Debug\HR.pdb

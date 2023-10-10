@@ -1,0 +1,12 @@
+D:\无用\S3\MVC\HR项目\HR\Model\bin\Debug\Model.dll
+D:\无用\S3\MVC\HR项目\HR\Model\bin\Debug\Model.pdb
+D:\无用\S3\MVC\HR项目\HR\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\无用\S3\MVC\HR项目\HR\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\无用\S3\MVC\HR项目\HR\Model\obj\Debug\Model.dll
+D:\无用\S3\MVC\HR项目\HR\Model\obj\Debug\Model.pdb
+H:\HR(3)\Model\bin\Debug\Model.dll
+H:\HR(3)\Model\bin\Debug\Model.pdb
+H:\HR(3)\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+H:\HR(3)\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+H:\HR(3)\Model\obj\Debug\Model.dll
+H:\HR(3)\Model\obj\Debug\Model.pdb
